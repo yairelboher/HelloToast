@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hello Toast</string>
+    <string name="toast_str">toast</string>
+    <string name="count_str">count</string>
+    <string name="count_init_str">0</string>
+    <string name="toast_message">Hello Toast!</string>
 </resources>
